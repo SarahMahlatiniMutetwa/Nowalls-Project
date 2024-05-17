@@ -622,7 +622,8 @@ textarea {
   #Contact-Us .send {
     width: 300px;
     height: 45px;
-    margin-left: 40px;
+    margin-left: 0px;
+    margin-right: 0;
   }
   #Contact-Us .contner {
     display: flex;
